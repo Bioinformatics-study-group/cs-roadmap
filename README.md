@@ -1,6 +1,6 @@
 ## Computer Science Roadmap (AI Track)
 
-- [ ] [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)
+- [X] [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)
 
 ### Intro to CS
 
